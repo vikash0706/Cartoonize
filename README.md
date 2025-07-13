@@ -1,4 +1,4 @@
-# Cartoon
+# Cartoonize
 
 ## Installation
 
